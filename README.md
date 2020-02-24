@@ -1,2 +1,2 @@
-# bmiCalculator
-Demo code to calculate the BMI for ICS 385 Spring 2020 class
+# ladder calculator
+Demo code to calculate the ladder for ICS 385 Spring 2020 class
